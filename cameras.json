@@ -1,0 +1,1052 @@
+[
+    {
+        "brands": "Fujifilm",
+        "models": [
+            "Fujifilm FinePix X100",
+            "Fujifilm FinePix S5 Pro",
+            "Fujifilm FinePix S3 Pro",
+            "Fujifilm FinePix X10",
+            "Fujifilm FinePix X S1",
+            "Fujifilm XF1",
+            "Fujifilm FinePix S100fs",
+            "Fujifilm FinePix F800EXR",
+            "Fujifilm FinePix F600EXR",
+            "Fujifilm FinePix F550EXR"
+        ]
+    },
+    {
+        "brands": "Leica",
+        "series": [],
+        "models": [
+            "Leica Q2",
+            "Leica SL2-S",
+            "Leica SL (Typ 601)",
+            "Leica M10",
+            "Leica Q Typ 116",
+            "Leica M Typ 240",
+            "Leica X Vario",
+            "Leica S",
+            "Leica T",
+            "Leica M-E Typ 220",
+            "Leica M9",
+            "Leica M9 P",
+            "Leica M8",
+            "Leica C"
+        ]
+    },
+    {
+        "brands": "Nokia Lumia",
+        "models": [
+            "Nokia Lumia 1020",
+            "Nokia Lumia 1520"
+        ]
+    },
+    {
+        "brands": "Pentax",
+        "models": [
+            "Pentax 645Z",
+            "Pentax K-1",
+            "Pentax 645D",
+            "Pentax K-5 IIs",
+            "Pentax K-5 II",
+            "Pentax K5",
+            "Pentax K-3",
+            "Pentax K-3 II",
+            "Pentax K 01",
+            "Pentax K-50",
+            "Pentax K-30",
+            "Pentax K-500",
+            "Pentax K-S1",
+            "Pentax Kx",
+            "Pentax Kr",
+            "Pentax K10D",
+            "Pentax K20D",
+            "Pentax K200D",
+            "Pentax KM",
+            "Pentax K7",
+            "Pentax Q10",
+            "Pentax MX-1",
+            "Pentax Q"
+        ]
+    },
+    {
+        "brands": "Mamiya",
+        "models": [
+            "Mamiya ZD Back"
+        ]
+    },
+    {
+        "brands": "Hasselblad",
+        "models": [
+           "Hasselblad X1D-50c",
+           "Hasselblad H3DII 50",
+           "Hasselblad H3DII 39"
+        ]
+    },
+    {
+        "brands": "Leaf",
+        "models": [
+            "Leaf Aptus75S"
+        ]
+    },
+    {
+        "brands": "Ricoh",
+        "series": [
+            "ZenBook",
+            "VivoBook",
+            "ROG",
+            "TUF"
+        ],
+        "models": [
+            "Ricoh GR II",
+            "Ricoh GR"
+        ]
+    },
+    {
+        "brands": "Walton",
+        "series": [
+            "Prelude",
+            "Passion",
+            "Tamarind",
+            "Karonda",
+            "Waxjambu"
+        ],
+        "models": [
+            "Prelude N50",
+            "Prelude N41",
+            "Prelude A9400",
+            "Passion Bx10 Pro Series",
+            "Passion Bx",
+            "Passion bX710g Pro",
+            "Passion bX510g Pro",
+            "Passion bX7",
+            "Passion Bx Pro",
+            "Passion bp5800",
+            "Passion bp7800",
+            "Tamarind MX11",
+            "Tamarind EX10 Pro",
+            "Tamarind ZX7",
+            "Tamarind ex10",
+            "Tamarind ex8",
+            "Tamarind ex510g",
+            "Tamarind zx3700",
+            "Tamarind zx3701",
+            "Tamarind zx3701a",
+            "Karonda GX510H",
+            "Karonda X510H",
+            "Karonda Tk.79,990",
+            "Karonda GX710G Pro",
+            "Karonda GX710G Pro",
+            "Karonda Tk.119,950",
+            "Waxjambu GL710H"
+        ]
+    },
+    {
+        "brands": "Illegear",
+        "series": [
+            "Arté Series",
+            "Ionic Series",
+            "Laguna Series",
+            "Onyx Series",
+            "Prodigy",
+            "Rogue Series",
+            "Selenite Series"
+        ],
+        "models": [
+            "Illegear 14",
+            "Ionic Light",
+            "Ionic  Touch",
+            "Ionic Thin",
+            "Ionic 14",
+            "Ionic 15",
+            "Laguna SE",
+            "Onyx G",
+            "Prodigy i7-9750H",
+            "Prodigy GTX 1660TI",
+            "Rogue AMD",
+            "Selenite G",
+            "Selenite Pro"
+        ]
+    },
+    {
+        "brands": "Eurocom",
+        "series": [
+            "Sky",
+            "Tornardo",
+            "Monster",
+            "Nightsky",
+            "Commander"
+        ],
+        "models": [
+            "Sky DLX7",
+            "Sky M5",
+            "Sky X7E2",
+            "Eurocom X7E2",
+            "Sky X4E2",
+            "Sky MX5 R3",
+            "Sky X9E3",
+            "Sky X9E3",
+            "Sky X9C",
+            "Sky X4C",
+            "Sky X7C",
+            "Tornado F5",
+            "Tornado F7W",
+            "Nightsky RX15",
+            "Nightsky ARX315",
+            "Nightsky RX317",
+            "Nightsky ARX15",
+            "Nightsky RX15",
+            "Commander 1",
+            "Commander 2",
+            "Monster 1.0",
+            "Monster 4"
+        ]
+    },
+    {
+        "brands": "Origin PC",
+        "series": [],
+        "models": [
+            "Origin EVO15-S",
+            "Origin EVO17-S",
+            "Origin EVO17-X",
+            "Origin NT-15i",
+            "Origin NT-15",
+            "Origin NT-17"
+        ]
+    },
+    {
+        "brands": "Microtech",
+        "series": [
+            "Corebook",
+            "Corebook",
+            "Lite"
+        ],
+        "models": [
+            "CoreBook i3",
+            "CoreBook R5",
+            "Corebook Notebook",
+            "Lite A",
+            "Lite C",
+            "E-book Lite"
+        ]
+    },
+    {
+        "brands": "Xiaomi",
+        "series": [
+            "Mi",
+            "Redmi"
+        ],
+        "models": [
+            "Mi Notebook Pro",
+            "RedmiBook Pro 15",
+            "RedmiBook Pro 14",
+            "RedmiBook Air 13",
+            "RedmiBook 16",
+            "Redmi G gaming laptop",
+            "RedmiBook 13",
+            "RedmiBook 14"
+        ]
+    },
+    {
+        "brands": "Evoo",
+        "series": [],
+        "models": [
+            "Evoo Gaming",
+            "Evoo Ultra Thin Notebook 14.1 inches",
+            "Evoo Ultra Thin Notebook 12.5 inches",
+            "Evoo Ultrathin"
+        ]
+    },
+    {
+        "brands": "Monster Notebook",
+        "series": [
+            "Abra",
+            "Tulpar",
+            "Huma",
+            "Semruk",
+            "Markut"
+        ],
+        "models": [
+            "Abra A7 V11.3.2",
+            "Abra A7 V11.3.1",
+            "Abra A7 V11.3",
+            "Abra A5 V15.8",
+            "Abra A5 V15.8.2",
+            "Tulpar T5 V19.2",
+            "Tulpar T7 V21.2",
+            "Tulpar T7 V21.1",
+            "Tulpar T5 V21.1",
+            "Tulpar T7 V21.3.1",
+            "Monster Tulpar T7 V20.2",
+            "Monster Tulpar T7 V20.3",
+            "Huma H5",
+            "Huma H4",
+            "Huma H5",
+            "Huma V3",
+            "Huma H4 V1",
+            "Huma H4 V1.2",
+            "Semruk 7",
+            "Semruk 7 V7.1",
+            "Semruk v7.2",
+            "Semruk V7.3.1.1",
+            "Markut M7 Vs 3.1",
+            "Markut V17",
+            "Markut V3"
+        ]
+    },
+    {
+        "brands": "Casper",
+        "series": [
+            "Nirvana",
+            "Excalibur"
+        ],
+        "models": [
+            "Nirvana X500",
+            "Nirvana X400",
+            "Nirvana S500",
+            "Nirvana C350",
+            "Nirvana C400",
+            "Nirvana F750",
+            "Nirvana F650",
+            "Nirvana C600",
+            "Excalibur G900",
+            "Excalibur G700",
+            "Excalibur G780"
+        ]
+    },
+    {
+        "brands": "Purism",
+        "series": [],
+        "models": [
+            "Librem 5",
+            "Librem 14",
+            "Librem 15",
+            "Librem 15v1",
+            "Librem 13",
+            "Librem 13v2",
+            "Librem 13V4",
+            "Librem 15V4",
+            "Librem 15V3",
+            "Librem 13V2",
+            "Librem 15 Rev 2"
+        ]
+    },
+    {
+        "brands": "Allview",
+        "series": [],
+        "models": [
+            "Portable Workstation",
+            "GamesBook",
+            "Allbook Q",
+            "Allbook i",
+            "VivaBook"
+        ]
+    },
+    {
+        "brands": "Google",
+        "series": [],
+        "models": [
+            "Chromebook Pixel",
+            "Pixelbook",
+            "Pixelbook Go"
+        ]
+    },
+    {
+        "brands": "Lg",
+        "series": [
+            "Xnote",
+            "LG Gram"
+        ],
+        "models": [
+            "Xnote N450",
+            "Xnote N550",
+            "Xnote Z330",
+            "Xnote P330",
+            "Xnote A510",
+            "Xnote U560",
+            "LG Gram 17"
+        ]
+    },
+    {
+        "brands": "Huawei",
+        "series": [],
+        "models": [
+            "Matebook 13",
+            "Matebook X pro",
+            "Matebook D15",
+            "Matebook D14"
+        ]
+    },
+    {
+        "brands": "Maguay",
+        "series": [
+            "MyWay",
+            "GamePower",
+            "OfficePower",
+            "ExpertStation",
+            "PowerStation"
+        ],
+        "models": [
+            "MyWay P17054X",
+            "MyWay U1401i",
+            "MyWay P1507X",
+            "MyWay P102M",
+            "Gamepower X99",
+            "OfficePower CS i3-7100",
+            "ExpertStation",
+            "PowerStation X1.E3",
+            "PowerStation i.SO2",
+            "Mini-Server"
+        ]
+    },
+    {
+        "brands": "Nokia",
+        "series": [],
+        "models": [
+            "Purebook X14",
+            "Purebook S14"
+        ]
+    },
+    {
+        "brands": "Microsoft",
+        "series": [
+            "Surface",
+            "Surface Pro",
+            "Surface Book"
+        ],
+        "models": [
+            "Surface",
+            "Surface 2",
+            "Surface Go",
+            "Surface 3",
+            "Surface Go 3",
+            "Surface Pro",
+            "Surface Pro 2",
+            "Surface Pro 3",
+            "Surface Pro 4",
+            "Surface Pro 6",
+            "Surface Pro 7",
+            "Surface Pro 7+",
+            "Surface Pro 8",
+            "Surface Pro X",
+            "Surface Laptop SE",
+            "Surface Laptop 2",
+            "Surface Laptop 3",
+            "Surface Laptop 4",
+            "Surface Laptop Studio",
+            "Surface Book",
+            "Surface Book 2",
+            "Surface Book 3",
+            "Surface Studio 2",
+            "Surface Hub 2S",
+            "Surface Duo 2",
+            "Surface Duo"
+        ]
+    },
+    {
+        "brands": "MSI",
+        "series": [
+            "Megabook",
+            "Modern",
+            "GT Wind"
+        ],
+        "models": [
+            "Megabook VR600",
+            "Megabook VR601",
+            "Megabook VR700",
+            "Megabook VR610",
+            "Megabook VR201",
+            "Megabook VR220YA",
+            "Megabook VR705",
+            "Megabook VR630",
+            "Megabook EX600",
+            "Megabook EX710",
+            "Megabook EX610",
+            "Megabook EX700",
+            "Megabook EX620",
+            "Modern 15",
+            "Modern 14",
+            "GT Wind U100",
+            "GT Wind U123",
+            "GT Wind U100X",
+            "GT Wind U250",
+            "GT Wind U230",
+            "GT Wind U040",
+            "GT Wind AE2410G",
+            "GT Wind AE2410",
+            "GT Wind L1300"
+        ]
+    },
+    {
+        "brands": "Njoy",
+        "series": [],
+        "models": [
+            "Aerial",
+            "Ediam"
+        ]
+    },
+    {
+        "brands": "Clevo",
+        "series": [],
+        "models": [
+            "NP55HK",
+            "NK60KJ",
+            "NS71MU",
+            "NV41MK (-D)",
+            "NJ50MU",
+            "X170KM-G",
+            "NS51MU",
+            "L141MU",
+            "NP55DB",
+            "NP50DE",
+            "NH77DEQ"
+        ]
+    },
+    {
+        "brands": "Optima",
+        "series": [],
+        "models": [
+            "OptimBook",
+            "OptimBook Pro",
+            "NoteBook",
+            "NoteBook Pro",
+            "MECIPT",
+            "MECIPT Pro",
+            "DACICC",
+            "DACICC Pro",
+            "CIFA",
+            "CIFA Pro",
+            "CET",
+            "CET Pro",
+            "Coral",
+            "Coral Pro",
+            "Workstation Pro"
+        ]
+    },
+    {
+        "brands": "Panasonic",
+        "series": [
+            "Toughbook",
+            "Toughpad"
+        ],
+        "models": [
+            "Toughbook 31",
+            "Toughbook 55",
+            "Toughbook 19",
+            "Toughbook C2",
+            "Toughbook 53",
+            "Toughbook 54",
+            "Toughbook C1",
+            "Toughbook 33",
+            "Toughbook CF20",
+            "Toughbook SX2",
+            "Toughbook AX3",
+            "Toughbook LX3",
+            "Toughbook MX4",
+            "Toughpad FZ-G1",
+            "Toughpad FZ-B2",
+            "Toughpad FZ-M1",
+            "Toughpad FZ-R1",
+            "Toughpad 4K",
+            "Toughpad FZ-E1",
+            "Toughpad FZ-X1"
+        ]
+    },
+    {
+        "brands": "Gateway",
+        "series": [],
+        "models": [
+            "v  2-in-1 Convertible",
+            "Ultra Slim"
+        ]
+    },
+    {
+        "brands": "Xiomi",
+        "series": [
+            "Redmi Book, Notebook"
+        ],
+        "models": [
+            "Mi NoteBook",
+            "RedmiBook",
+            "Notebook 14",
+            "Notebook Air",
+            "Notebook Pro",
+            "Redmi Book 14",
+            "Redmi Book 14 Pro",
+            "Redmi Book 15",
+            "Redmi Book 15 Pro",
+            "Redmi Book 16",
+            "Redmi Book Pro"
+        ]
+    },
+    {
+        "brands": "Razer",
+        "series": [
+            "Blade"
+        ],
+        "models": [
+            "Blade 15 Studio",
+            "Blade 15 Advanced",
+            "Blade Pro 17",
+            "Blade 15",
+            "Blade Stealth 13",
+            "Blade Book 13"
+        ]
+    },
+    {
+        "brands": "VAIO",
+        "series": [
+            "Z-series"
+        ],
+        "models": [
+            "Vaio Z5xx",
+            "Vaio Z6xx",
+            "Vaio Z7xx",
+            "Vaio Z8xx",
+            "Vaio Z11",
+            "Vaio Z12",
+            "Vaio Z13",
+            "Vaio Z14",
+            "Vaio Z21"
+        ]
+    },
+    {
+        "brands": "Chuwi",
+        "series": [
+            "Lapbook"
+        ],
+        "models": [
+            "Lapbook",
+            "Lapbook Air",
+            "Lapbook SE",
+            "Lapbook 12.3",
+            "Lapbook Pro",
+            "Lapbook Plus",
+            "Aerobook",
+            "Herobook",
+            "CorebookX",
+            "Herobook Pro"
+        ]
+    },
+    {
+        "brands": "Realme",
+        "series": [
+            "RealmeBook"
+        ],
+        "models": [
+            "Realmebook Slim",
+            "Realmebook 14",
+            "Realmebook slim i5"
+        ]
+    },
+    {
+        "brands": "Samsung",
+        "series": [
+            "E-series",
+            "M-series",
+            "N-series",
+            "Notebook",
+            "Q-Series",
+            "QX-Series",
+            "R-series",
+            "RV-Series",
+            "SF-Series",
+            "X-Series",
+            "G-Series"
+        ],
+        "models": [
+            "E3520",
+            "M50",
+            "M70",
+            "M550",
+            "NC 10",
+            "Notebook 7",
+            "Notebook 9",
+            "Q Series",
+            "Q330",
+            "Q430",
+            "Q530",
+            "QX310",
+            "QX311",
+            "QX410",
+            "QX411",
+            "QX412",
+            "QX510",
+            "QX511",
+            "R480",
+            "R580",
+            "R780",
+            "R590",
+            "RC410",
+            "RC420",
+            "RC510",
+            "RC512",
+            "RC710",
+            "RC720",
+            "RC530",
+            "RC730",
+            "RF410",
+            "RF411",
+            "RF510",
+            "RF710",
+            "RF511",
+            "RF711",
+            "RF712",
+            "RV409",
+            "RV411",
+            "RV413",
+            "RV415",
+            "RV511",
+            "RV515",
+            "RV420",
+            "RV520",
+            "RV711",
+            "RV720",
+            "SF310",
+            "SF311",
+            "SF410",
+            "SF411",
+            "SF510",
+            "SF511"
+        ]
+    },
+    {
+        "brands": "Alienware",
+        "series": [],
+        "models": [
+            "X15",
+            "X16",
+            "M15",
+            "Area-51m R2"
+        ]
+    },
+    {
+        "brands": "System76",
+        "series": [],
+        "models": [
+            "v Galago Pro",
+            "Oryx Pro",
+            "Pangolin",
+            "Lemur Pro",
+            "Gazelle",
+            "Darter Pro",
+            "Serval WS"
+        ]
+    },
+    {
+        "brands": "Dynabook",
+        "series": [
+            "Portégé",
+            "Treca",
+            "Satelite"
+        ],
+        "models": [
+            "Portégé T3400ct",
+            "Portégé T3600ct/500",
+            "Portégé 300CT",
+            "Portégé 3010CT",
+            "Portégé 3020CT",
+            "Portégé 3110CT",
+            "Portégé 3440CT",
+            "Portégé 3480CT",
+            "Portégé 3490CT",
+            "Portégé 2000",
+            "Portégé 7000CT",
+            "Portégé 7010CT",
+            "Portégé 7020CT",
+            "Portégé 7140CT",
+            "Portégé 7200CT",
+            "Portégé 7200CTe",
+            "Portégé R100",
+            "Portégé M100",
+            "Portégé A200",
+            "Portégé M200/M205",
+            "Portégé R200",
+            "Portégé M400",
+            "Portégé R500",
+            "Portégé A600",
+            "Portégé R600",
+            "Portégé M700",
+            "Portégé M750",
+            "Portégé M780",
+            "Portégé M800",
+            "Portégé R700-P1333",
+            "Portégé R705-P25",
+            "Portégé R835-p56X",
+            "Portégé Z835-P330",
+            "Portégé P360",
+            "Portégé Z835-P370",
+            "Portégé P372",
+            "Portégé Z930",
+            "Portégé R30-A",
+            "Portégé Z30-A",
+            "Portégé A30-D",
+            "Portégé X20W-E",
+            "Treca A series",
+            "Treca X seies",
+            "Satellite C-40 J",
+            "Satellite C-50 J",
+            "Dynabook E-10"
+        ]
+    },
+    {
+        "brands": "Hyundai",
+        "series": [
+            "HYbook",
+            "HYflip",
+            "ThinNote"
+        ],
+        "models": [
+            "Flip",
+            "book",
+            "flipnote",
+            "thinnote",
+            "HyBook"
+        ]
+    },
+    {
+        "brands": "Gigabyte",
+        "series": [
+            "Aorus,Aero,Gaming"
+        ],
+        "models": [
+            "Aorus 15P",
+            "Aero 15",
+            "Aero 15P",
+            "Aero 17",
+            "Aero 15OLED",
+            "Aero 15XC",
+            "Aero 15X9",
+            "Aero 14KV7",
+            "Gaming G5",
+            "Gaming G7"
+        ]
+    },
+    {
+        "brands": "Glovo",
+        "series": [],
+        "models": [
+            "Clevo"
+        ]
+    },
+    {
+        "brands": "BOXX",
+        "series": [],
+        "models": [
+            "GoBOXX"
+        ]
+    },
+    {
+        "brands": "Vastking",
+        "series": [],
+        "models": [
+            "KingPad",
+            "Kingbook"
+        ]
+    },
+    {
+        "brands": "Fujitsu",
+        "series": [],
+        "models": [
+            "Notebook",
+            "Lifebook"
+        ]
+    },
+    {
+        "brands": "Bmax",
+        "series": [],
+        "models": [
+            "Maxbook Y11",
+            "Maxbook Y11 Pro",
+            "Maxbook X15",
+            "Maxbook Y13",
+            "Maxbook Y13 Power",
+            "Maxbook Y13 Pro",
+            "Maxbook Y14",
+            "Maxbook Y14 Pro",
+            "Maxbook S13 A",
+            "Maxbook S13 Pro",
+            "Maxbook X14"
+        ]
+    },
+    {
+        "brands": "Machenike",
+        "series": [],
+        "models": [
+            "Machcreator",
+            "T58",
+            "F117",
+            "FV65"
+        ]
+    },
+    {
+        "brands": "Jumper",
+        "series": [],
+        "models": [
+            "EZpad go",
+            "EZpad",
+            "EZBook"
+        ]
+    },
+    {
+        "brands": "Durabook",
+        "series": [],
+        "models": [
+            "Z141",
+            "S141",
+            "S15AB",
+            "R8300"
+        ]
+    },
+    {
+        "brands": "Walmart",
+        "series": [],
+        "models": [
+            "Motile"
+        ]
+    },
+    {
+        "brands": "Cyberpower PC",
+        "series": [],
+        "models": [
+            "Tracer V Series",
+            "Tracer IV",
+            "Tracer III"
+        ]
+    },
+    {
+        "brands": "VIT",
+        "series": [],
+        "models": [
+            "P1420",
+            "P3310-01",
+            "P3310-02"
+        ]
+    },
+    {
+        "brands": "Lava International",
+        "series": [],
+        "models": [
+            "Twinpad",
+            "Helium Series"
+        ]
+    },
+    {
+        "brands": "AGB",
+        "series": [],
+        "models": [
+            "Octev Series",
+            "Tiara",
+            "Orion"
+        ]
+    },
+    {
+        "brands": "Zeuslap",
+        "series": [],
+        "models": [
+            "15.6",
+            "13.3",
+            "14"
+        ]
+    },
+    {
+        "brands": "Xolo",
+        "series": [],
+        "models": [
+            "Chromebrook"
+        ]
+    },
+    {
+        "brands": "XMG",
+        "series": [],
+        "models": [
+            "Apex XMG FUSION",
+            "Apex XMG NEO",
+            "Apex XMG PRO",
+            "Apex XMG ULTRA",
+            "Apex Audio Laptops",
+            "Apex XMG DJ",
+            "Apex XMG PRO AUDIO",
+            "Apex XMG",
+            "APEX 15",
+            "XMG APEX 17",
+            "XMG Core",
+            "XMG Dj 15",
+            "XMG Focus",
+            "XMG Neo Series",
+            "XMG Pro Series"
+        ]
+    },
+    {
+        "brands": "Obsidian Pc",
+        "series": [],
+        "models": [
+            "PC50"
+        ]
+    },
+    {
+        "brands": "Omen",
+        "series": [],
+        "models": [
+            "Omen 15",
+            "Omen 16",
+            "Omen 17",
+            "Victus",
+            "Omen X 2S"
+        ]
+    },
+    {
+        "brands": "Falcon Northwest",
+        "series": [],
+        "models": [
+            "DRX",
+            "TLX"
+        ]
+    },
+    {
+        "brands": "Velocity Micro",
+        "series": [],
+        "models": [
+            "Signature 17",
+            "Raptor S77",
+            "Raptor MX70"
+        ]
+    },
+    {
+        "brands": "Sager Notebook Computers",
+        "series": [],
+        "models": [
+            "NP Series"
+        ]
+    },
+    {
+        "brands": "Digital Storm",
+        "series": [],
+        "models": [
+            "Avon 15",
+            "Avon 17"
+        ]
+    },
+    {
+        "brands": "Eluktronics",
+        "series": [],
+        "models": [
+            "Prometheus XVI",
+            "Prometheus XVII",
+            "GeForce RTX 30 Series",
+            "MAG-15",
+            "MECH-15 G3",
+            "MAX-15",
+            "MAX-17"
+        ]
+    },
+    {
+        "brands": "Overpowered",
+        "series": [],
+        "models": [
+            "v  Gaming Laptop 15",
+            "Gaming Laptop 15+",
+            "Gaming Laptop 17+"
+        ]
+    }
+]

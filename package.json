@@ -1,0 +1,42 @@
+{
+  "name": "cameras",
+  "version": "1.0.0",
+  "description": "A simple library that lists Cameras brands and models with no dependency",
+  "main": "index.js",
+  "bin":"index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/_mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BolajiOlayinka/cameras.git"
+  },
+  "keywords": [
+    "Laptops",
+    "Laptop-Brands",
+    "Laptop-models",
+    "list-of-laptops",
+    "Laptops",
+    "hp",
+    "dell",
+    "macbook",
+    "acer",
+    "Laptop Database",
+    "Laptops makes",
+    "laptops Series"
+  ],
+  "author": "Bolaji Olayinka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BolajiOlayinka/cameras/issues"
+  },
+  "homepage": "",
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}
