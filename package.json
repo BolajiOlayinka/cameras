@@ -1,5 +1,5 @@
 {
-  "name": "cameras",
+  "name": "camera-brands",
   "version": "1.0.0",
   "description": "A simple library that lists Cameras brands and models with no dependency",
   "main": "index.js",
@@ -15,18 +15,7 @@
     "url": "git+https://github.com/BolajiOlayinka/cameras.git"
   },
   "keywords": [
-    "Laptops",
-    "Laptop-Brands",
-    "Laptop-models",
-    "list-of-laptops",
-    "Laptops",
-    "hp",
-    "dell",
-    "macbook",
-    "acer",
-    "Laptop Database",
-    "Laptops makes",
-    "laptops Series"
+   "Cmaera Brands"
   ],
   "author": "Bolaji Olayinka",
   "license": "MIT",

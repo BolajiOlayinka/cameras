@@ -1,16 +1,16 @@
-# cameras
+# camera-brands
 
 
-cameras is a lightweight zero-dependency npm package that can be used to get the list of laptop brands and models
+camera-brands is a lightweight zero-dependency npm package that can be used to get the list of laptop brands and models
 
-[![NPM](https://nodei.co/npm/cameras.png)](https://nodei.co/npm/cameras/)
+[![NPM](https://nodei.co/npm/camera-brands.png)](https://nodei.co/npm/camera-brands/)
 
-[![npm version](https://badge.fury.io/js/cameras.svg)](https://www.npmjs.com/package/cameras)
+[![npm version](https://badge.fury.io/js/camera-brands.svg)](https://www.npmjs.com/package/camera-brands)
 
 ### Installation
 ``` Javascript
 
-npm install cameras
+npm install camera-brands
 
 ```
 
@@ -18,25 +18,25 @@ npm install cameras
 
 ``` Javascript
 //ES5
-const cameras = require('cameras');
+const camera-brands = require('camera-brands');
 
 // ES6
-import cameras from 'cameras';
+import camera-brands from 'camera-brands';
 
-console.log(cameras.getAll());
+console.log(camera-brands.getAll());
 // Get all arguments (args) from getBrand('all')
-console.log(cameras.getBrand('all')); 
-console.log(cameras.getBrand("popular"))
-console.log(cameras.getBrand("Hp"))
-console.log(cameras.getModel("Asus"))
-console.log(cameras.getSeries("Apple"))
+console.log(camera-brands.getBrand('all')); 
+console.log(camera-brands.getBrand("popular"))
+console.log(camera-brands.getBrand("Hp"))
+console.log(camera-brands.getModel("Asus"))
+console.log(camera-brands.getSeries("Apple"))
 
 ```
 ### Demo
 
-[Link to the github repository](https://github.com/BolajiOlayinka/demo-cameras)
+[Link to the github repository](https://github.com/BolajiOlayinka/demo-camera-brands)
 
-[Demo](https://demo-cameras.netlify.app/)
+[Demo](https://demo-camera-brands.netlify.app/)
 
 
 
@@ -50,9 +50,9 @@ console.log(cameras.getSeries("Apple"))
 
 
 ## Contributing
-This module tries to be exhaustive, if there are still cameras brands, models or series that havent been added,plese contribute to the project 
+This module tries to be exhaustive, if there are still camera-brands brands, models or series that havent been added,plese contribute to the project 
 * Fork this repositry to your account.
-* Clone your repositry: git clone git@github.com:your-username/cameras.git
+* Clone your repositry: git clone git@github.com:your-username/camera-brands.git
 * Create your feature branch: git checkout -b"short feature description"
 * Commit your changes: git commit -m "feature"
 * Push to the remote branch: git push origin new-feature
